@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">  
+
+    <title>Travel Agency Page</title>
+    <meta name="description" content="non empty">
+  </head>
+
+  <body>
+   <h1>Travel destinations</h1>
+   <p> Art, folklore, food, nature, and more. Choose among our wide selection of guided tours and excursions, and live an unforgettable experience exploring Italy! </p>
+   <h2>Packages</h2> 
+   <p> We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns. </p>
+   <ul>
+    <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li> <a <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+   </ul> 
+
+
+   <h2>Top Itineraries</h2>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://photos.smugmug.com/Europe/Italy/Rome-2013/i-67snxtX/0/6187d561/XL/GMA_2151-XL.jpg" alt="Coloseum in Italy"> </a>
+    <figcaption>Rome and Center Italy</figcaption>
+  </figure>
+
+   <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://images.zicasso.com/34da267f7593a9c9f18b80d0516ef35a.jpg" alt="NAtional park in Italy"> </a>
+    <figcaption>Nature and National Parks</figcaption>
+   </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://www.travelandleisure.com/thmb/j4hVEqMGu_I08ydrPos2pdkYe6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ponza-italy-HERO_ITALYISLAND0722-106994d7814a4d09ac1ecb2e4082d0dd.jpg" alt="Italian Islands" > </a>
+    
+    
+    <figcaption>South Italy and Islands</figcaption>
+    </figure>
+  </body>
+
+  </html>
